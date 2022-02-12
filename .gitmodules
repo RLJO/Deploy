@@ -1,0 +1,4 @@
+[submodule "jasimibos/Odoo-Module-master"]
+	path = jasimibos/Odoo-Module-master
+	url = git@github.com:jasimibos/Odoo-Module-master.git
+	branch = master
