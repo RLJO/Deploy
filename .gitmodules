@@ -2,3 +2,8 @@
 	path = dhongu/deltatech
 	url = git@github.com:dhongu/deltatech.git
 	branch = 15.0
+
+[submodule "EdouardRivendell/SupercrackLive"]
+	path = EdouardRivendell/SupercrackLive
+	url = git@github.com:EdouardRivendell/SupercrackLive.git
+	branch = TestOrder
