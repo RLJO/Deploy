@@ -12,3 +12,8 @@
 	path = jasimibos/Odoo-Module-master
 	url = git@github.com:jasimibos/Odoo-Module-master.git
 	branch = master
+
+[submodule "rechacon/alcaldia"]
+	path = rechacon/alcaldia
+	url = git@github.com:rechacon/alcaldia.git
+	branch = prueba0208
